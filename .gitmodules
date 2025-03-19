@@ -1,0 +1,3 @@
+[submodule "lib/embeddedUtils"]
+	path = lib/embeddedUtils
+	url = git@github.com:npdib/embeddedUtils.git
